@@ -1,5 +1,5 @@
 #include "stdio.h"
-
+ 
 // ..
 
 int a = 0; // var global
